@@ -3,9 +3,6 @@
   <p>
     <strong>Data Scientist • Machine Learning Engineer • GIS Specialist</strong>
   </p>
-  <p>Transforming data into intelligent, spatially-aware systems</p>
-
-  <p>
     <a href="mailto:abdonassar027@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
     </a>
@@ -23,14 +20,13 @@
 ## 🧠 About Me
 
 I’m a data-driven problem solver who builds intelligent systems across **machine learning**, **analytics**, and **geospatial intelligence**.  
-From exploring raw datasets to deploying AI-powered web apps, I care about turning insight into action — and design into impact.
+From exploring raw datasets to deploying AI-powered web apps.
 
 Currently blending:
 - 🤖 **Data Science & ML** — predictive modeling, NLP, and computer vision  
 - 🗺️ **GIS & Spatial Analytics** — integrating spatial data pipelines with AI  
 - 🧩 **End-to-End Development** — Streamlit, Flask, PostgreSQL, and APIs  
 
-I’m not just analyzing data — I’m engineering meaning out of it.
 
 ---
 
