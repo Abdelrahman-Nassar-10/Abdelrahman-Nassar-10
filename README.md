@@ -63,7 +63,6 @@ Machine Learning · NLP · Recommender Systems · Computer Vision · Data Analys
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdelrahman-Nassar-10&show_icons=true&theme=tokyonight" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelrahman-Nassar-10&layout=compact&theme=tokyonight" height="165" />
 </p>
 
