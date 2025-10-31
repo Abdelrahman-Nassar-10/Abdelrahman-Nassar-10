@@ -99,23 +99,15 @@ I build end-to-end machine learning systems that solve real-world problems. From
 
 ---
 
-## 📈 GitHub Stats
+## 📈 Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abdelrahman-Nassar-10&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelrahman-Nassar-10&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdelrahman-Nassar-10&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Abdelrahman-Nassar-10&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views"/>
-  
-  <p><i>"Transforming data into decisions, models into products"</i></p>
-  
   <sub>⭐️ From [Abdelrahman-Nassar-10](https://github.com/Abdelrahman-Nassar-10)</sub>
 </div>
