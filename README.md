@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Abdelrahman Nassar</h1>
+<h1 align="center">Abdelrahman Nassar</h1>
 <h3 align="center">Data Scientist & ML Engineer | Geospatial & AI Enthusiast</h3>
 
 <p align="center">
